@@ -1,6 +1,6 @@
 # flow_backend
 
-simle express backendserver 
+simle express backendserver for the proof of concept (freetzing flow app)[https://github.com/freetzing/flow_app]
 servers the connected ports of an arduino board in an fzz sketch  
 uses fritzing-js  
 
